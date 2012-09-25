@@ -1,0 +1,3 @@
+1) Transforme a imagem do elefante em tons de cinza.
+2) Gere 3 imagens fazendo a função de split RGB, cada imagens com intensidades luminosas proporcionais a um componente de cor.
+3) Implemente um programa que transforme a imagem do elefante em imagem binária.
